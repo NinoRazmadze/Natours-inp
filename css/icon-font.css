@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 @font-face {
+  
   font-family: "linea-basic-10";
   src: url("fonts/linea-basic-10.eot");
   src: url("fonts/linea-basic-10.eot?#iefix") format("embedded-opentype"),
